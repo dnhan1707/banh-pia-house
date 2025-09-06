@@ -1,5 +1,5 @@
 export default function Hero() {
-    const video_url = '/dough.mp4'
+    const video_url = 'https://f4mccdvrwalec4mm.public.blob.vercel-storage.com/dough.mp4' || '/dough.mp4'
 
     return (
         <>
@@ -18,6 +18,7 @@ export default function Hero() {
                         muted
                         playsInline
                         className="object-cover w-full h-full"
+                        crossOrigin="anonymous"
                     >
                         <source src={video_url} type="video/mp4"/>
                     </video>
