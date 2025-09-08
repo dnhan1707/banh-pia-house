@@ -12,7 +12,7 @@ export default function Products() {
             name: "Bánh Trung Thu (đậu, dừa, thập cẩm 2 trứng)",
             description: "Bánh pía nhân dừa tươi, hương vị đặc trưng miền Tây",
             image: "/banhtrungthu.jpg",
-            price: "300.000đ / 1 hộp 4 cái"
+            price: "300.000đ / 1 hộp 4 cái (mix tùy ý các loại)"
         },
         {
             id: 3,
