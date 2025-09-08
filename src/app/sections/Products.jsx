@@ -5,11 +5,11 @@ export default function Products() {
             name: "Bánh Pía nhỏ Đậu Xanh + Sầu Riêng",
             description: "Bánh pía truyền thống với nhân đậu xanh thơm ngon, béo ngậy",
             image: "/banhpia.jpg",
-            price: "27.000đ / 1 bì 10 cái"
+            price: "40.000đ / 1 gói 300gr"
         },
         {
             id: 2,
-            name: "Bánh Trung Thu",
+            name: "Bánh Trung Thu (đậu, dừa, thập cẩm 2 trứng)",
             description: "Bánh pía nhân dừa tươi, hương vị đặc trưng miền Tây",
             image: "/banhtrungthu.jpg",
             price: "300.000đ / 1 hộp 4 cái"
